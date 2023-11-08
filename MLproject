@@ -1,0 +1,4 @@
+name: my-project
+entry_points:
+    main:
+        command: "python /Workspace/mlflow_experiments/word_counter_example/word_counter.py"
